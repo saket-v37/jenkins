@@ -36,6 +36,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>first-jenkins-project</finalName>
 	</build>
-
 </project>
